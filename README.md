@@ -1,2 +1,2 @@
 # ashiq.demo
-this is my first project at github
+this is my first github repository
